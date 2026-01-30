@@ -1,3 +1,3 @@
 # test_conflict
 
-conflict test from laptop2
+conflict test from github2
